@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(/Inter/Inter-VariableFont_opsz\,wght.ttf);
+}
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: antiquewhite;
+}
