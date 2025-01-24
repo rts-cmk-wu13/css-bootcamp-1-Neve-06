@@ -39,3 +39,16 @@ figure {
     width: 25rem;
     height: 25rem;
 }
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+
+li:nth-last-child(1){
+    background-color: red;
+}
