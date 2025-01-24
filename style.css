@@ -21,12 +21,18 @@ body {
 
 main {
     font-family: 'Inter';
+    padding: 2rem;
+    display: grid;
+    grid-template-columns:  repeat(2, 1fr);
 }
 
 header,
 footer {
     font-family: 'Montserrat';
     font-weight: bold;
+    color: blue;
+    padding: 2rem;
+
 }
 
 img {
