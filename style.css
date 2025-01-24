@@ -26,3 +26,14 @@ header, footer{
     font-family: 'Montserrat';
     font-weight: bold;
 }
+
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+figure{
+    width: 25rem;
+    height: 15rem;
+}
