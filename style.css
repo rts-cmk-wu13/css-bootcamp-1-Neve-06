@@ -7,12 +7,11 @@
     src: url(/Montserrat/Montserrat-Italic-VariableFont_wght.ttf);
 }
 
-
-
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 body{
@@ -21,4 +20,9 @@ body{
 
 main{
     font-family: 'Inter';
+}
+
+header, footer{
+    font-family: 'Montserrat';
+    font-weight: bold;
 }
