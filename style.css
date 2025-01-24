@@ -2,6 +2,10 @@
     font-family: 'Inter';
     src: url(/Inter/Inter-VariableFont_opsz\,wght.ttf);
 }
+@font-face {
+    font-family: 'Montserrat';
+    src: url(/Montserrat/Montserrat-Italic-VariableFont_wght.ttf);
+}
 
 
 
@@ -13,4 +17,8 @@
 
 body{
     background-color: antiquewhite;
+}
+
+main{
+    font-family: 'Inter';
 }
